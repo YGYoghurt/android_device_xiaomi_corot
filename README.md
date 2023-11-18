@@ -17,16 +17,5 @@ Camera  | 9280 x 6920 pixels, 7680 x 4320 pixels, 24 fps
 SIM Card | Nano-SIM, Nano-SIM / microSD
 Positioning | GPS, A-GPS, BeiDou, Glonass, Galileo, NavIC    
 
-## Features
-
-Works:
-
- -: preparatory phase for the project
-
-## To use it:
-
-```
-fastboot flash vendor_boot out/target/product/corot/vendor_boot.img
-```
 ## Device picture
 ![corot](https://i02.appmifile.com/329_operator_sg/14/08/2023/3fcfdc0e83081349795e70056be19e35.png)
